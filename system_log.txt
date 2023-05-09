@@ -1,0 +1,4 @@
+1683636849,"Usage du Cpu" 12.7
+1683636859,"Usage du Cpu" 10.3
+1683636869,"Usage du Cpu" 9.4
+1683636879,"Usage du Cpu" 12.7
